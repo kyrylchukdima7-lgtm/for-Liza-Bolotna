@@ -1,0 +1,72 @@
+.div {
+    background: linear-gradient(to bottom, #fdeff4 40%, #ffefd6 100%);
+}
+
+.main-container {
+    width: 1080px;
+    background-color: #ffffff;
+    margin: 40px auto;
+    height: auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 1);
+    position: relative;
+}
+
+.h1{
+    text-align: center;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: normal;
+    font-style:italic;
+    color: #D6E8FF;
+    padding-top: 40px;
+}
+
+.first{
+    flex-direction: row;
+    display: flex;
+}
+
+.photo{
+    width: 400px;
+    height: 200px;
+}
+
+.photo-two{
+    width: 300px;
+    height: 400px;
+}
+
+.text{
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    font-style:oblique;
+    color: #000000;
+}
+
+.h2{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: normal;
+    font-style:italic;
+    color: #000000;
+    margin-top: 60px;
+}
+
+.photo-tree{
+    width: 520px;
+    height: 270px;
+}
+
+.p-two{
+    text-align: right;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: normal;
+    font-style:unset;
+    color: #FF89B3;
+    margin-right: 40px;
+    padding-bottom: 40px;
+}
